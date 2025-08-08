@@ -7,7 +7,7 @@ tic-tac-toe-python/
 │── assets/
     │── preview.gif
     │── screenshot.png
-```
+
 
 ---
 
